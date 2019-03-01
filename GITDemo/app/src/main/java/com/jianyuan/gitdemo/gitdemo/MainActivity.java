@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init() {
-        System.out.println("123");
+        System.out.println("123test");
     }
 }
