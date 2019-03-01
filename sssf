@@ -1,0 +1,19 @@
+warning: LF will be replaced by CRLF in GITDemo/.idea/gradle.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in GITDemo/.idea/misc.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in GITDemo/.idea/runConfigurations.xml.
+The file will have its original line endings in your working directory
+[1mdiff --git a/GITDemo/.idea/misc.xml b/GITDemo/.idea/misc.xml[m
+[1mindex e0d5b93..b0c7b20 100644[m
+[1m--- a/GITDemo/.idea/misc.xml[m
+[1m+++ b/GITDemo/.idea/misc.xml[m
+[36m@@ -29,7 +29,7 @@[m
+       </value>[m
+     </option>[m
+   </component>[m
+[31m-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">[m
+[32m+[m[32m  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">[m
+     <output url="file://$PROJECT_DIR$/build/classes" />[m
+   </component>[m
+   <component name="ProjectType">[m
