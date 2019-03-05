@@ -5,6 +5,10 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/.idea/giadle.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/runConfigurations.xml
 .DS_Store
 /build
 /captures
