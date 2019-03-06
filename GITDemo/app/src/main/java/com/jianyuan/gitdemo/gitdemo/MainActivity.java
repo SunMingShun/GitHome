@@ -1,5 +1,6 @@
 package com.jianyuan.gitdemo.gitdemo;
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
@@ -88,9 +89,9 @@ public class MainActivity extends BaseActivity {
     public void acceptPush(String pushData){
           boolean isTop =  isActivityTop(MainActivity.class,MainActivity.this);
           if(isTop){
-              Toast.makeText(MainActivity.this, "topName>>>"+isTop, Toast.LENGTH_SHORT).show();
+              Intent intent = new Intent(MainActivity.this,CarmeActivity.class);
+              startActivity(intent);
               Log.e("topName>>>:",isTop+"");
-
           }
     }
 
